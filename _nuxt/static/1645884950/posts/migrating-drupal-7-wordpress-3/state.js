@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645884950",layout:"default",error:a,serverRendered:true,routePath:"\u002Fposts\u002Fmigrating-drupal-7-wordpress-3",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"94f9abd8"}}}}(null));
