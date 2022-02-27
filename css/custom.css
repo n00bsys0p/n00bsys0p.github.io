@@ -5,3 +5,7 @@ a {
 ul.social-list a {
     color: #0b3c5d;
 }
+
+article.blog-post img {
+    max-width: 100%;
+}
