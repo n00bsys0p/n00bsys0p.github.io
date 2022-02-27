@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645978051",layout:"default",error:a,serverRendered:true,routePath:"\u002Fposts\u002Fhow-download-flash-102-video-streams-linux",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"79ba4578"}}}}(null));
